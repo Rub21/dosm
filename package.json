@@ -9,12 +9,13 @@
   "dependencies": {
     "@mapbox/tile-cover": "^3.0.2",
     "@turf/turf": "^5.0.4",
+    "bluebird-queue": "0.0.8",
+    "child-process-promise": "^2.2.1",
     "commander": "^2.9.0",
     "minimist": "^1.2.0",
-    "underscore": "^1.8.3",
-    "bluebird-queue": "0.0.8",
     "request": "^2.83.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "standard": "^10.0.3"
