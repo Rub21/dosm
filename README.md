@@ -9,11 +9,10 @@ npm link
 
 Make sure you have installed [osmconvert](https://wiki.openstreetmap.org/wiki/Osmconvert)
 
-
 ### Usage
 
 ```
-dosm -d ayac.geojson --api=xapi --zoom=18
+dosm -d ayac.geojson --api=overpass --zoom=16
 ```
 
-Avalible APIs: `xapi`, `osm`.
+Avalible APIs: `overpass`, `osm`.

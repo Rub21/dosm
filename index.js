@@ -13,6 +13,6 @@ if (program.download) {
   let opts = {
     api: argv.api,
     zoom: argv.zoom
-  }
+  };
   download(file, opts);
 }
