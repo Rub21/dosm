@@ -6,6 +6,8 @@
 npm install -g dosm
 ```
 
+or
+
 ```
 https://github.com/Rub21/dosm.git
 cd dosm/
