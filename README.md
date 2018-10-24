@@ -1,6 +1,11 @@
-# Download osm data for a polygon
+# Download OpenStreetMap data for a polygon
 
 ### Install
+
+```
+npm install -g dosm
+```
+
 ```
 https://github.com/Rub21/dosm.git
 cd dosm/
