@@ -18,12 +18,13 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
+    "prettier": "^1.14.3",
     "standard": "^10.0.3"
   },
   "scripts": {
     "fix": "eslint --fix lib index.js",
     "lint": "eslint lib index.js",
-    "format": "prettier --single-quote --write --print-width 120 \"lib/*.js\""
+    "format": "prettier --single-quote --write --print-width 120 lib/*.js *.js"
   },
   "repository": {
     "type": "git",
